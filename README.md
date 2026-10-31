@@ -1,4 +1,4 @@
-# NeuroVision AI — Streamlit web app
+# NeuroVision AI - Streamlit web app
 
 A shareable Streamlit Community Cloud app for the BRISC2025 four-class 2D brain MRI research classifier.
 
