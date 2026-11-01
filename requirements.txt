@@ -1,0 +1,6 @@
+streamlit>=1.40,<2.0
+tensorflow-cpu==2.21.0
+numpy>=1.26,<2.3
+Pillow>=10.0
+plotly>=5.18
+pandas>=2.1
